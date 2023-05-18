@@ -16,7 +16,8 @@ i = 1
 while i<=x:
 
     if i>available:
-        break
+        print("Out of stock")
+        break    #jump out of the loop
     
     print("Candy")
     i+=1
