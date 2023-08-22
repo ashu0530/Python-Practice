@@ -1,7 +1,7 @@
 ################################################ Keywords and Variables #########################################################
 
 # 1) Keywords which called reserve words ex - for, while, True, False, if, else, del, elif, and, or, not etc
-# 2) Variables - Is to store some data and have a reference to the location in the variable x=5 5 is stored in some memory location and x is variable is which gives referencing to its 5 memror location
+# 2) Variables - Is to store some data and have a reference to the location in the variable x=5 5 is stored in some memory location and x is variable is which gives referencing to its 5 memory location
 # 3) Functions - A sequence of instructions that perform a specific task ex- 
 
 print ("ashu") #print function
