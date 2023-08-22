@@ -1,0 +1,1 @@
+Analyze the problem --> Think of the solution ---> pen down the solution (important) ---> Code the solution
